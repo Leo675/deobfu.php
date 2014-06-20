@@ -11,7 +11,7 @@ This tool is useful because you can use it with another script for automated dec
 
 Usage:
 --------
-$ recdec.php <encoded line>
+$ recdec.php \<encoded line\>
 
 The decoded line will be output to standard output.
 
