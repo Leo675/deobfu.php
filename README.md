@@ -19,7 +19,7 @@ Requirements:
 --------
 PHP-CLI
 
-Tested on PHP 5.2 and newer. May work on older versions.
+Tested on PHP 5. May work on other versions.
 
 Configuration:
 --------
